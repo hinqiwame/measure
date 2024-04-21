@@ -1,0 +1,12 @@
+#!/bin/bash
+
+if [ -d "bin" ]; then
+    rm -rf bin
+	mkdir bin
+	cd bin
+	g++ -o measure ../measure.cpp 
+else
+    mkdir bin
+	cd bin
+	g++ -o measure ../measure.cpp
+fi
