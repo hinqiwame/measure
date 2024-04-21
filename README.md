@@ -9,4 +9,4 @@ Time taken to execute 'ls' is 0.00236308 second(s).
 ## Install
 
 ## Build
-Read [docs/build.md](https://github.com/hinqiwame/measure/docs/build.md)
+Read [docs/build.md](https://github.com/hinqiwame/measure/blob/main/docs/build.md)
