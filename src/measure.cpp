@@ -16,9 +16,9 @@ void printhelp()
     std::cout << "Optional arguments:" << std::endl;
     std::cout << "    -h|--help: Show this help message and exit." << std::endl;
     std::cout << "    -v|--version: Show version and exit." << std::endl;
-std::cout << std::endl;
-std::cout << "Homepage: https://github.com/hinqiwame/measure" << std::endl;
-std::cout << "Submit a bug: https://github.com/hinqiwame/measure/issues/" << std::endl;
+    std::cout << std::endl;
+    std::cout << "Homepage: https://github.com/hinqiwame/measure" << std::endl;
+    std::cout << "Submit a bug: https://github.com/hinqiwame/measure/issues/" << std::endl;
 }
 
 void printversion() 
