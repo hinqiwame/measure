@@ -11,6 +11,8 @@ Simply run the following command in terminal:
 ```
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/hinqiwame/measure/main/installer/install-measure.sh)"
 ```
+> If that doesn't work you can grab `measure` binary from [releases](https://github.com/hinqiwame/measure/releases/latest) page manually
+> 
 
 ## Build
 Read [docs/build.md](https://github.com/hinqiwame/measure/blob/main/docs/build.md)
