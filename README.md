@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="250" alt="Measure" src="ass/measure.jpg">
+</p>
+
 # Measure
 A simple utility for *unix systems to measure how much time any command takes to execute.
 ```
